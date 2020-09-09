@@ -1,0 +1,36 @@
+{
+    "tools": [
+        {
+            "name": "Adobe Illustrator",
+            "description": "Adobe Illustrator (kurz Ai) ist ein vektorbasiertes Grafik- und Zeichenprogramm. Es dient also dem Herstellen von Computergrafiken, die man ohne Qualitätsverlust beliebig in ihrer Größe verändern kann – im Unterschied zu pixelbasierten Bildbearbeitungsprogrammen wie z. B. Photoshop.",
+            "teamId": 1,
+            "isFree": false,
+            "id": 1
+        },
+        {
+            "name": "Google Data Studio",
+            "description": "Google Data Studio ist eine Software der Google LLC zur Verwaltung und Visualisierung von Massendaten. Im Gegensatz zu Google Analytics können hier benutzerdefinierte und interaktive Berichte und Dashboards erstellt werden.",
+            "teamId": 2,
+            "isFree": true,
+            "id": 2
+        }
+    ],
+    "teams": [
+        {
+            "id": 1,
+            "name": "UX Team"
+        },
+        {
+            "id": 2,
+            "name": "SEO Team"
+        },
+        {
+            "id": 3,
+            "name": "SEA Team"
+        },
+        {
+            "id": 4,
+            "name": "Social Team"
+        }
+    ]
+}
